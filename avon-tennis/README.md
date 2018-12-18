@@ -10,15 +10,15 @@ For general help with WordPress, visit the [WordPress Codex](https://codex.wordp
 
 Contact details:
 
-* Questions regarding the domain or hosting, email [support@sovisionit.com](mailto:support@sovisionit.com)
-* Questions regarding WordPress or website bugs, email [hello@jamestarpey.com](mailto:hello@jamestarpey.com)
+- Questions regarding the domain or hosting, email [support@sovisionit.com](mailto:support@sovisionit.com)
+- Questions regarding WordPress or website bugs, email [hello@jamestarpey.com](mailto:hello@jamestarpey.com)
 
 Good to know:
 
-* The domain avontennis.org.uk is registered with [soVision](https://www.sovisionit.com)
-* The hosting is managed by [soVision](https://www.sovisionit.com)
-* The website is powered by the [WordPress](https://wordpress.org) Content Management System
-* The Avon Tennis WordPress theme is developed and maintained by [James Tarpey](https://jamestarpey.com)
+- The domain avontennis.org.uk is registered with [soVision](https://www.sovisionit.com)
+- The hosting is managed by [soVision](https://www.sovisionit.com)
+- The website is powered by the [WordPress](https://wordpress.org) Content Management System
+- The Avon Tennis WordPress theme is developed and maintained by [James Tarpey](https://jamestarpey.com)
 
 ## URL
 
@@ -32,9 +32,9 @@ The WordPress backend (or control panel) is where you manage the site.
 
 To login:
 
-* Go to [avontennis.org.uk/admin](http://avontennis.org.uk/admin)
-* Enter your username and password
-* Click the blue 'Login' button
+- Go to [avontennis.org.uk/admin](http://avontennis.org.uk/admin)
+- Enter your username and password
+- Click the blue 'Login' button
 
 # Dashboard
 
@@ -60,23 +60,23 @@ Events are for listing and displaying events on the website.
 
 To create a new event:
 
-* Hover on 'Events' from the main WordPress menu, then click 'Add New'
-* Enter the event title, description, start and end date and time
-* Click the 'Set featured image' link to upload or choose an image to associate with the event
-* Click the blue 'Publish' button
+- Hover on 'Events' from the main WordPress menu, then click 'Add New'
+- Enter the event title, description, start and end date and time
+- Click the 'Set featured image' link to upload or choose an image to associate with the event
+- Click the blue 'Publish' button
 
 To modify an event:
 
-* Click 'Events' from the main WordPress menu
-* Click on the title of an existing event
-* Update the event details
-* Click the blue 'Update' button
+- Click 'Events' from the main WordPress menu
+- Click on the title of an existing event
+- Update the event details
+- Click the blue 'Update' button
 
 To delete an event:
 
-* Click 'Events' from the main WordPress menu
-* Hover on the title of an existing event
-* Click the red 'Bin' link that appears below the title
+- Click 'Events' from the main WordPress menu
+- Hover on the title of an existing event
+- Click the red 'Bin' link that appears below the title
 
 ## Media
 
@@ -84,23 +84,23 @@ Media is where you store website files, like images and downloadable documents.
 
 To upload a file:
 
-* Hover on 'Media' from the main WordPress menu, then click 'Add New'
-* Drag and drop one or more files into the dotted area, or click the 'Select Files' button
-* Once uploaded, your files can be included across the site
+- Hover on 'Media' from the main WordPress menu, then click 'Add New'
+- Drag and drop one or more files into the dotted area, or click the 'Select Files' button
+- Once uploaded, your files can be included across the site
 
 To modify a file:
 
-* Click 'Media' from the main WordPress menu
-* Hover on the title of an existing file
-* Click the 'Edit' link that appears below the title
-* Update the file
-* Click the blue 'Update' button
+- Click 'Media' from the main WordPress menu
+- Hover on the title of an existing file
+- Click the 'Edit' link that appears below the title
+- Update the file
+- Click the blue 'Update' button
 
 To delete a file:
 
-* Click 'Media' from the main WordPress menu
-* Hover on the title of an existing file
-* Click the red 'Delete Permanently' link that appears below the title
+- Click 'Media' from the main WordPress menu
+- Hover on the title of an existing file
+- Click the red 'Delete Permanently' link that appears below the title
 
 !> Other content types have a bin so you can undo your changes, but media files are deleted immediately
 
@@ -110,23 +110,23 @@ Pages are for static content, like an 'about us' page.
 
 To create a new page:
 
-* Hover on 'Pages' from the main WordPress menu, then click 'Add New'
-* Enter the page title and content
-* Click the 'Set featured image' link to upload or choose an image to associate with the page
-* Click the blue 'Publish' button
+- Hover on 'Pages' from the main WordPress menu, then click 'Add New'
+- Enter the page title and content
+- Click the 'Set featured image' link to upload or choose an image to associate with the page
+- Click the blue 'Publish' button
 
 To modify a page:
 
-* Click 'Pages' from the main WordPress menu
-* Click on the title of an existing page
-* Update the page details
-* Click the blue 'Update' button
+- Click 'Pages' from the main WordPress menu
+- Click on the title of an existing page
+- Update the page details
+- Click the blue 'Update' button
 
 To delete a page:
 
-* Click 'Pages' from the main WordPress menu
-* Hover on the title of an existing page
-* Click the red 'Bin' link that appears below the title
+- Click 'Pages' from the main WordPress menu
+- Hover on the title of an existing page
+- Click the red 'Bin' link that appears below the title
 
 ## News
 
@@ -134,24 +134,24 @@ News is for time sensitive content, like news articles and updates.
 
 To create a news article:
 
-* Hover on 'News' from the main WordPress menu, then click 'Add New'
-* Enter the news article title and content
-* Enter a short summary in the Excerpt field - this is what is displayed in the rotating news ticker
-* Click the 'Set featured image' link to upload or choose an image to associate with the news article
-* Click the blue 'Publish' button
+- Hover on 'News' from the main WordPress menu, then click 'Add New'
+- Enter the news article title and content
+- Enter a short summary in the Excerpt field - this is what is displayed in the rotating news ticker
+- Click the 'Set featured image' link to upload or choose an image to associate with the news article
+- Click the blue 'Publish' button
 
 To modify a news article:
 
-* Click 'News' from the main WordPress menu
-* Click on the title of an existing news article
-* Update the news article details
-* Click the blue 'Update' button
+- Click 'News' from the main WordPress menu
+- Click on the title of an existing news article
+- Update the news article details
+- Click the blue 'Update' button
 
 To delete a news article:
 
-* Click 'News' from the main WordPress menu
-* Hover on the title of an existing news article
-* Click the red 'Bin' link that appears below the title
+- Click 'News' from the main WordPress menu
+- Hover on the title of an existing news article
+- Click the red 'Bin' link that appears below the title
 
 ## Slides
 
@@ -159,23 +159,23 @@ The slider (or carousel) is for marketing and promotion. Published slides are au
 
 To create a slide:
 
-* Hover on 'Slides' from the main WordPress menu, then click 'Add New'
-* Enter the slide title, a URL to redirect and (optionally) change the button text
-* Click the 'Set featured image' link to upload or choose an image to set as the background image
-* Click the blue 'Publish' button
+- Hover on 'Slides' from the main WordPress menu, then click 'Add New'
+- Enter the slide title, a URL to redirect and (optionally) change the button text
+- Click the 'Set featured image' link to upload or choose an image to set as the background image
+- Click the blue 'Publish' button
 
 To modify a slide:
 
-* Click 'Slides' from the main WordPress menu
-* Click on the title of an existing slide
-* Update the slide details
-* Click the blue 'Update' button
+- Click 'Slides' from the main WordPress menu
+- Click on the title of an existing slide
+- Update the slide details
+- Click the blue 'Update' button
 
 To delete a slide:
 
-* Click 'Slides' from the main WordPress menu
-* Hover on the title of an existing slide
-* Click the red 'Bin' link that appears below the title
+- Click 'Slides' from the main WordPress menu
+- Hover on the title of an existing slide
+- Click the red 'Bin' link that appears below the title
 
 ## Contact
 
@@ -201,10 +201,10 @@ Widgets are displayed in the website sidebar. See [WordPress Widgets](https://co
 
 To add a widget:
 
-* Drag a widget from 'Available Widgets' into the 'Sidebar' panel
-* Re-order widgets in the 'Sidebar' panel by dragging and dropping them
-* Click on a widget title to expand it and see any available options
-* Click the blue 'Save' button to save any changes
+- Drag a widget from 'Available Widgets' into the 'Sidebar' panel
+- Re-order widgets in the 'Sidebar' panel by dragging and dropping them
+- Click on a widget title to expand it and see any available options
+- Click the blue 'Save' button to save any changes
 
 To remove a widget drag it out of the 'Sidebar' panel.
 
@@ -214,28 +214,28 @@ Menus is where you customise the main website navigation.
 
 To add pages to the menu:
 
-* Click 'Pages' below where it says 'Edit your menu below, or create a new menu'
-* Select one or more page from the 'Most Recent' list, or click 'Search' and type a page Name
-* Check the boxes next to the pages you want to add
-* Click the 'Add to Menu' button - the pages will be added to the bottom of the 'Menu Structure'
-* Re-order menu items in the 'Menu Structure' by dragging and dropping them
+- Click 'Pages' below where it says 'Edit your menu below, or create a new menu'
+- Select one or more page from the 'Most Recent' list, or click 'Search' and type a page Name
+- Check the boxes next to the pages you want to add
+- Click the 'Add to Menu' button - the pages will be added to the bottom of the 'Menu Structure'
+- Re-order menu items in the 'Menu Structure' by dragging and dropping them
 
 To add a custom link to the menu:
 
-* Click 'Custom Links' below where it says 'Edit your menu below, or create a new menu'
-* Enter a URL and the Link Text, then click the 'Add to Menu' button
-* Click the 'Add to Menu' button - the pages will be added to the bottom of the 'Menu Structure'
-* Re-order menu items in the 'Menu Structure' by dragging and dropping them\
+- Click 'Custom Links' below where it says 'Edit your menu below, or create a new menu'
+- Enter a URL and the Link Text, then click the 'Add to Menu' button
+- Click the 'Add to Menu' button - the pages will be added to the bottom of the 'Menu Structure'
+- Re-order menu items in the 'Menu Structure' by dragging and dropping them\
 
 To create dropdown menus:
 
-* Left click and hold on an existing menu item under 'Menu Structure'
-* Drag it below another menu item, it should be slightly indented
+- Left click and hold on an existing menu item under 'Menu Structure'
+- Drag it below another menu item, it should be slightly indented
 
 To delete menu items:
 
-* Click on an existing menu item under 'Menu Structure'
-* Click the red 'Remove' link that appears
+- Click on an existing menu item under 'Menu Structure'
+- Click the red 'Remove' link that appears
 
 # Users
 
@@ -243,18 +243,18 @@ View and manage all of the registered users. See [WordPress Roles and Capabiliti
 
 To add a new user:
 
-* Hover on 'Users' from the main WordPress menu, then click 'Add New'
-* Enter a username and email address
-* Make sure the 'Send User Notification' checkbox is checked
-* Assign one or more user roles
-* Click the blue 'Add New User' button
-* The user will receive an email to complete their registration
+- Hover on 'Users' from the main WordPress menu, then click 'Add New'
+- Enter a username and email address
+- Make sure the 'Send User Notification' checkbox is checked
+- Assign one or more user roles
+- Click the blue 'Add New User' button
+- The user will receive an email to complete their registration
 
 To delete a user:
 
-* Click 'Users' from the main WordPress menu
-* Check the box alongside the username of an existing user
-* Click the 'Bulk Actions' dropdown and choose 'Delete'
+- Click 'Users' from the main WordPress menu
+- Check the box alongside the username of an existing user
+- Click the 'Bulk Actions' dropdown and choose 'Delete'
 
 # Settings
 
@@ -264,15 +264,15 @@ The plugin [My Private Site](https://en-gb.wordpress.org/plugins/jonradio-privat
 
 To make the site live:
 
-* Hover on 'Settings' from the main WordPress menu, then click 'Private Site'
-* Untick the 'Private Site' checkbox
-* Click the blue 'Save Changes' button
+- Hover on 'Settings' from the main WordPress menu, then click 'Private Site'
+- Untick the 'Private Site' checkbox
+- Click the blue 'Save Changes' button
 
 To hide the site:
 
-* Hover on 'Settings' from the main WordPress menu, then click 'Private Site'
-* Tick the 'Private Site' checkbox
-* Click the blue 'Save Changes' button
+- Hover on 'Settings' from the main WordPress menu, then click 'Private Site'
+- Tick the 'Private Site' checkbox
+- Click the blue 'Save Changes' button
 
 # Options
 
@@ -284,10 +284,10 @@ Announcements are displayed at the very top of every page. Use them to highlight
 
 To add an announcement:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Header' tab
-* Enter the announcement message
-* Click the blue 'Update' button
+- Click 'Options' from the main WordPress menu
+- Select the 'Header' tab
+- Enter the announcement message
+- Click the blue 'Update' button
 
 ### Social media links
 
@@ -295,20 +295,20 @@ Social media links are displayed in the top right corner of the website, allowin
 
 To add a social media link:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Header' tab
-* Click the blue 'Add' button
-* Enter the social media site name under 'Text'
-* Enter the social media site URL under 'URL'
-* Enter the name of a [Font Awesome](http://fontawesome.io/icons/) icon under 'Icon'
-* Click the blue 'Update' button
+- Click 'Options' from the main WordPress menu
+- Select the 'Header' tab
+- Click the blue 'Add' button
+- Enter the social media site name under 'Text'
+- Enter the social media site URL under 'URL'
+- Enter the name of a [Font Awesome](http://fontawesome.io/icons/) icon under 'Icon'
+- Click the blue 'Update' button
 
 To remove a social media link:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Header' tab
-* Hover over an existing row in the social media links table
-* Click the 'minus' icon that appears at the far right of the row
+- Click 'Options' from the main WordPress menu
+- Select the 'Header' tab
+- Hover over an existing row in the social media links table
+- Click the 'minus' icon that appears at the far right of the row
 
 ## Homepage
 
@@ -318,19 +318,19 @@ Competitions are displayed in the "Find a competition" dropdown on the homepage.
 
 To add a competition:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Homepage' tab
-* Click the blue 'Add' button
-* Enter the competition name under 'Name'
-* Enter the URL users are redirected to under 'URL'
-* Click the blue 'Update' button
+- Click 'Options' from the main WordPress menu
+- Select the 'Homepage' tab
+- Click the blue 'Add' button
+- Enter the competition name under 'Name'
+- Enter the URL users are redirected to under 'URL'
+- Click the blue 'Update' button
 
 To remove a competition:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Header' tab
-* Hover over an existing row in the competitions table
-* Click the 'minus' icon that appears at the far right of the row
+- Click 'Options' from the main WordPress menu
+- Select the 'Header' tab
+- Hover over an existing row in the competitions table
+- Click the 'minus' icon that appears at the far right of the row
 
 ## Footer
 
@@ -340,18 +340,18 @@ Sponsor logos are displayed in the website footer.
 
 To add a sponsor logo:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Footer' tab
-* Click the blue 'Add' button
-* Click the 'Add Image' button to upload or choose an image
-* Click the blue 'Update' button
+- Click 'Options' from the main WordPress menu
+- Select the 'Footer' tab
+- Click the blue 'Add' button
+- Click the 'Add Image' button to upload or choose an image
+- Click the blue 'Update' button
 
 To remove a sponsor logo:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Footer' tab
-* Hover over an existing row in the sponsors table
-* Click the 'minus' icon that appears at the far right of the row
+- Click 'Options' from the main WordPress menu
+- Select the 'Footer' tab
+- Hover over an existing row in the sponsors table
+- Click the 'minus' icon that appears at the far right of the row
 
 ### Copyright
 
@@ -359,10 +359,10 @@ This is displayed alongside the copyright symbol and current year.
 
 To update the copyright message:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'Footer' tab
-* Change the copyright text
-* Click the blue 'Update' button
+- Click 'Options' from the main WordPress menu
+- Select the 'Footer' tab
+- Change the copyright text
+- Click the blue 'Update' button
 
 ## Google Analytics
 
@@ -372,13 +372,13 @@ You need a Google Account and Google Analytics Tracking ID - both have been setu
 
 To login to Google Analytics:
 
-* Go to [analytics.google.com](https://analytics.google.com)
-* Login with your Google Account
-* From the main Google Analytics menu, expand 'Behaviour', then 'Site Content' and click 'All Pages'
-* You'll see a line graph and table showing the number of pageviews
-* To change the date range, click the dates in the top right corner to reveal a datepicker
-* To download the report, click the 'Export' link above the date picker
-* To setup automated email reports, click the 'Share' link above the date picker
+- Go to [analytics.google.com](https://analytics.google.com)
+- Login with your Google Account
+- From the main Google Analytics menu, expand 'Behaviour', then 'Site Content' and click 'All Pages'
+- You'll see a line graph and table showing the number of pageviews
+- To change the date range, click the dates in the top right corner to reveal a datepicker
+- To download the report, click the 'Export' link above the date picker
+- To setup automated email reports, click the 'Share' link above the date picker
 
 !> For general help visit the [Google Analytics Help Center](https://support.google.com/analytics)
 
@@ -390,11 +390,11 @@ You can implement a basic payment form by adding `[payment_form]` to a page.
 
 The form has fields for:
 
-* First name
-* Last name
-* Email address
-* Reference
-* Amount
+- First name
+- Last name
+- Email address
+- Reference
+- Amount
 
 When a user completes the form by clicking the 'Pay Now' button they are redirected to PayPal to complete the transaction. The information provided from the form fields above is automatically copied over to PayPal.
 
@@ -404,12 +404,12 @@ The default payment methods is by credit or debit card. Users can login to PayPa
 
 You can customise some of the payment form:
 
-* Click 'Options' from the main WordPress menu
-* Select the 'PayPal' tab
-* PayPal Mode - choose 'Sandbox' for development and testing, choose 'Live' when taking real payments
-* PayPal Email Address - enter your PayPal email address
-* PayPal Success Page - choose the page users are redirected to after a successful payment
-* PayPal Error Page - choose the page users are redirected to if there is a problem with (or they abandon) payment
+- Click 'Options' from the main WordPress menu
+- Select the 'PayPal' tab
+- PayPal Mode - choose 'Sandbox' for development and testing, choose 'Live' when taking real payments
+- PayPal Email Address - enter your PayPal email address
+- PayPal Success Page - choose the page users are redirected to after a successful payment
+- PayPal Error Page - choose the page users are redirected to if there is a problem with (or they abandon) payment
 
 !> When in Sandbox Mode visit [getcreditcardnumbers.com](http://www.getcreditcardnumbers.com) to generate card details.
 
@@ -431,9 +431,9 @@ The plugin [Expire Passwords](https://en-gb.wordpress.org/plugins/expire-passwor
 
 To change Expire Passwords settings:
 
-* Hover on 'Users' from the main WordPress menu, then click 'Expire Passwords'
-* Update the plugin Settings
-* Click the blue 'Save Changes' button
+- Hover on 'Users' from the main WordPress menu, then click 'Expire Passwords'
+- Update the plugin Settings
+- Click the blue 'Save Changes' button
 
 ## Backups
 
@@ -441,10 +441,10 @@ The plugin [BackUpWordPress](https://en-gb.wordpress.org/plugins/backupwordpress
 
 To download a backup:
 
-* Hover on 'Tools' from the main WordPress menu, then click 'Backups'
-* Click the 'Download' link next to an existing backup
+- Hover on 'Tools' from the main WordPress menu, then click 'Backups'
+- Click the 'Download' link next to an existing backup
 
 To delete a backup:
 
-* Hover on 'Tools' from the main WordPress menu, then click 'Backups'
-* Click the red 'Delete' link next to an existing backup
+- Hover on 'Tools' from the main WordPress menu, then click 'Backups'
+- Click the red 'Delete' link next to an existing backup
