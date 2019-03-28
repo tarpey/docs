@@ -4,17 +4,17 @@ The website is powered by [WordPress](http://wordpress.org), an open source Cont
 
 ## Website Address
 
-The website address is [avontennis.org.uk](http://avontennis.org.uk).
+The website address is [avontennis.org.uk](https://avontennis.org.uk).
 
-## Logging in
+## Login
 
 To login:
 
-- Go to [avontennis.org.uk/admin](http://avontennis.org.uk/admin)
+- Go to [avontennis.org.uk/admin](https://avontennis.org.uk/admin)
 - Enter your username and password
 - Click the **Login** button
 
-!> If you've forgotten your password contact [Avon Tennis](mailto:avoncountytennis@gmail.com).
+!> If you've forgotten your password contact [Avon Tennis](mailto:tennis@avontennis.org.uk.com).
 
 ## The Dashboard
 

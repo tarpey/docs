@@ -5,7 +5,7 @@ const concat = require("gulp-concat");
 const uglify = require("gulp-uglify");
 const imagemin = require("gulp-imagemin");
 const rename = require("gulp-rename");
-const path = require("path");
+const markdownPdf = require("gulp-markdown-pdf");
 
 function styles() {
   return src("src/styles/*.scss")
@@ -39,8 +39,17 @@ function fonts() {
   );
 }
 
+// Task: PDF
+
+function pdf() {
+  return src("./*.md")
+    .pipe(markdownPdf())
+    .pipe(gulp.dest("assets/pdf"));
+}
+
 watch("src/styles/*.scss", styles);
 watch("src/scripts/*.js", scripts);
 watch(["src/images/*.png", "src/images/*.jpg", "src/images/*.svg"], images);
+watch("/*.md", pdf);
 
-exports.default = parallel(styles, scripts, images, fonts);
+exports.default = parallel(styles, scripts, images, fonts, pdf);

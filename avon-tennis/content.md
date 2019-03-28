@@ -32,6 +32,15 @@ List and display events on the website.
 
 Store website files like images and documents.
 
+### Recommended sizes
+
+- **Homepage slider**: 3000px x 300px
+- **News articles**: 400px x 170px
+- **Images on pages**: 870px x 300px
+- **Sponsor logos**: 480px x 200px
+
+!> [BeFunky](https://www.befunky.com/create/photo-editor/) have a free online image editor
+
 ### Add media
 
 - Hover on **Media** in the main menu then click **Add New**

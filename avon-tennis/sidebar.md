@@ -1,6 +1,8 @@
+- **Contents**
 - [Introduction](introduction)
 - [Getting Started](getting-started)
 - [Content](content)
+- [Gutenberg](gutenberg)
 - [Appearance](appearance)
 - [Users](users)
 - [Settings](settings)
