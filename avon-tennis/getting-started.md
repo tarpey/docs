@@ -24,7 +24,7 @@ On the left is the **main menu** and across the top is the **admin bar**.
 
 Clicking **Avon Tennis** in the admin bar will alternate between the website and WordPress control panel.
 
-## Logging out
+## Logout
 
 To logout:
 

@@ -8,4 +8,5 @@
 - [Settings](settings)
 - [Security](security)
 - **Links**
-- [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)WordPress Codex](https://codex.wordpress.org)
+- [![Code](https://icongr.am/fontawesome/bug.svg?size=16&color=808080)Report Bug](mailto:hello@jamestarpey.com)
+- [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)WordPress Support](https://codex.wordpress.org)

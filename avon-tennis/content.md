@@ -112,10 +112,35 @@ Display time sensitive content, like news articles and updates.
 - Hover on the title of an existing news article
 - Click the **Bin** link that appears below the title
 
+## Clubs
+
+Display clubs on the "Place to Play" map
+
+### Create club
+
+- Hover on **Clubs** in the main menu then click **Add New**
+- Enter the club and scroll down for more details
+- Click the **Publish** button
+
+### Update club
+
+- Click **Clubs** in the main menu
+- Click on the title of an existing club
+- Update the club name or scroll down for more details
+- Click the **Update** button
+
+### Delete news article
+
+- Click **Clubs** in the main menu
+- Hover on the title of an existing club
+- Click the **Bin** link that appears below the title
+
 ## Forms
 
 Setup and display forms on the website.
 
-Completed form data is sent to an email address - the default address is admin@avontennis.org.uk.
+- Click **Contact** in the main menu
+
+Completed form data is sent to an email address - the default address is tennis@avontennis.org.uk.
 
 ?> The plugin [Contact Form 7](https://en-gb.wordpress.org/plugins/contact-form-7/) is used for contact forms - [View documentation](https://contactform7.com/docs/).

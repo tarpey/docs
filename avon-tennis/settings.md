@@ -1,53 +1,25 @@
 # Settings
 
-Click **Options** in the main menu.
+Hover on **Appearance** in the main menu then click **Theme Options**
 
-## Announcements
+## Homepage
 
-Display a message at the top of every page. Use announcements to highlight something important like website maintenance or a known problem you're investigating.
-
-- Select the **Header** tab
-- Enter the announcement message
-- Click the **Update** button
-
-## Social media links
-
-Display social media links in the top right corner of the website.
-
-### Add a social media link
-
-- Select the **Header** tab
-- Click the **Add** button
-- Enter the social media site name under **Text**
-- Enter the social media site URL under **URL**
-- Enter the name of a [Font Awesome](http://fontawesome.io/icons/) icon under **Icon**
-- Click the **Update** button
-
-### Remove a social media link
-
-- Hover on an existing row in the table
-- Click the **minus** icon that appears
-
-### Competitions
-
-Display competitions in the "Find a competition" dropdown on the homepage.
-
-### Add a competition
+### Slider
 
 - Select the **Homepage** tab
-- Click the **Add** button
-- Enter the competition name under **Name**
-- Enter the address that users are redirected to under **URL**
-- Click the **Update** button
+- Select the homepage slider from the dropdown menu
 
-### Remove a competition
+### News Articles
 
-- Hover on an existing row in the table
-- Click the **minus** icon that appears
+- Select the **Homepage** tab
+- Choose how many news articles are displayed on the homepage
 
-## Sponsor logos
+### Place to Play
 
-Display sponsor logos in the website footer.
+- Select the **Homepage** tab
+- Show/Hide the Places to Play map on the homepage
+
+## Sponsors
 
 ### Add a sponsor logo
 
@@ -61,7 +33,7 @@ Display sponsor logos in the website footer.
 - Hover on an existing row in the table
 - Click the **minus** icon that appears
 
-## Copyright message
+## Copyright
 
 Display a message alongside the copyright symbol and current year in the website footer.
 
@@ -106,6 +78,16 @@ You can customise some of the payment form:
 - **PayPal Error Page** - choose the page users are redirected to if there's a problem with payment
 
 !> When in Sandbox Mode use [getcreditcardnumbers.com](http://www.getcreditcardnumbers.com) to generate card details.
+
+## Twitter
+
+### Tokens and keys
+
+- Select the **Twitter** tab
+- You need to [create a Twitter app](https://developer.twitter.com/apps)
+- Enter the credentials
+- Select the username of the Twitter account you want to display Tweets from
+- Choose the number of Tweets displayed in the sidebar
 
 ## SEO
 
