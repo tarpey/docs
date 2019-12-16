@@ -2,6 +2,15 @@
 
 Hover on **Appearance** in the main menu then click **Theme Options**
 
+## Header
+
+### Logo
+
+- Upload a logo to replace the default LTA British Tennis logo
+- Change the image by hovering on the existing one and clicking the cross icon
+- Change the logo text to set the text that's displayed alongside the logo image
+- Leave the logo text empty if you only want to show a logo image
+
 ## Homepage
 
 ### Slider
